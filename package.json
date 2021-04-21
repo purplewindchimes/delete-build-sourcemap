@@ -1,0 +1,19 @@
+{
+  "name": "delete-build-sourcemap",
+  "version": "1.0.0",
+  "description": "delete source map files after uploaded to sentry or anywhere",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/purplewindchimes/delete-build-sourcemap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/purplewindchimes/delete-build-sourcemap/issues"
+  },
+  "homepage": "https://github.com/purplewindchimes/delete-build-sourcemap#readme"
+}
